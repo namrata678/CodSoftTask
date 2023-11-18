@@ -1,6 +1,12 @@
 import java.util.Random;
 import java.util.Scanner;
 
+/*
+ *NumberGuessingGame
+ * Coder: Namrata Ingle
+ * Copyright (c) [2023] Namrata Ingle. All rights reserved.
+ */
+
 public class NumberGuessingGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
